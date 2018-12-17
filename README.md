@@ -39,7 +39,7 @@
         
         把引用到该模块的build.gradle 中的 implementation project(':user') 改为 implementProject(':user')
         
-    - 类自动下沉（只提供暴露服务功能）
+    - 类自动下沉（只提供暴露服务功能, 编译时可见，不会打到包里）
     
             apply plugin: 'cn.yiche.price.service'
             

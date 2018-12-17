@@ -31,7 +31,7 @@
             
         在模块的src文件夹中新建app文件夹
         
-        ![](https://github.com/yinzj1993/services/blob/master/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20181217110708.png)
+        ![](https://github.com/yinzj1993/service/blob/master/%E6%88%AA%E5%9B%BE_20181217110708.png)
 
         在app文件夹中新建java、res文件夹用来写需要用到的类
         
